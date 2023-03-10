@@ -40,6 +40,13 @@ Sou brasileiro, tenho 26 anos e moro em Uberlândia-MG, sou uma pessoa apaixonad
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+
+
+<div>
+<a href="https://github.com/luanPeixotoo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanPeixotoo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanPeixotoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 <!--
 **luanPeixotoo/luanPeixotoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
