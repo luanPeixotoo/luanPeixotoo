@@ -1,4 +1,6 @@
-<img align="right" width="250px" style="margin-top:-20px" <a href="https://ibb.co/Vw9gTHm"><img src="https://i.ibb.co/KKh2WNw/avatar-luan.jpg" alt="avatar-luan" border="0"></a>
+<!--<img align="right" width="250px" style="margin-top:-20px" <a href="https://ibb.co/Vw9gTHm"><img src="https://i.ibb.co/KKh2WNw/avatar-luan.jpg" alt="avatar-luan" border="0"></a>
+-->
+
 </br>
 </br>
 
@@ -6,13 +8,13 @@
  
  <h1 align="left">Luan Ferreira Peixoto</h1>
  <a href="https://www.instagram.com/luanferreiraap/">
-    <img align="left" width="80px" src="https://i.ibb.co/j6Hvt17/logo-instagram.png" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="80px" src="https://icons8.com/icon/32323/instagram" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://twitter.com/LuanFerreiraap">
-    <img align="left" width="80px" src="https://i.ibb.co/S50PPr1/logo-tt.png" alt="twitter" style="vertical-align:top;">
+    <img align="left" width="80px" src="https://icons8.com/icon/13963/twitter" alt="twitter" style="vertical-align:top;">
   </a>
   <a href="https://www.linkedin.com/feed/">
-    <img width="80px" src="https://i.ibb.co/GQGTZWp/logo-linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img width="80px" src="https://icons8.com/icon/13930/linkedin" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
