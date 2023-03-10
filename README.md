@@ -1,4 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" href="https://ibb.co/Vw9gTHm"><img src="https://i.ibb.co/Vw9gTHm/avatar-luan.jpg" alt="avatar-luan" border="0"></a>
+<img align="right" width="250px" style="margin-top:-20px" <a href="https://ibb.co/Vw9gTHm"><img src="https://i.ibb.co/KKh2WNw/avatar-luan.jpg" alt="avatar-luan" border="0"></a>
 </br>
 </br>
 
@@ -31,6 +31,13 @@ Sou brasileiro, tenho 26 anos e moro em Uberlândia-MG, sou uma pessoa apaixonad
 <p align="center">
   <img src="https://i.ibb.co/fdNfjwy/programmer-programming.gif" alt="programmer-programming" width="350">
 </p>
+
+### 🖥️ Estou aprendendo: 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" title = "SPRING"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" title = "MYSQL"/></code>
 <!--
 **luanPeixotoo/luanPeixotoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
