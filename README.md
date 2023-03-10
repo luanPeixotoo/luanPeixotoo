@@ -1,5 +1,4 @@
-<img align="right" width="250px" style="margin-top:-20px" src=<img src="https://i.ibb.co/wcgS4Js/avatar-luan.jpg">
-
+<img align="right" width="250px" style="margin-top:-20px" href="https://ibb.co/Vw9gTHm"><img src="https://i.ibb.co/Vw9gTHm/avatar-luan.jpg" alt="avatar-luan" border="0"></a>
 </br>
 </br>
 
