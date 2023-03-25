@@ -1,4 +1,4 @@
-<img align="right" width="210x" style="margin-top:-20px" src="https://i.ibb.co/wcgS4Js/avatar-luan.jpg" alt="avatar-luan" border="0">
+<img align="right" width="210x" style="margin-top:-20px" src="https://i.ibb.co/r7Mj7Xm/avatar-luan-removebg.png" alt="avatar-luan" border="0">
 
 
 </br>
